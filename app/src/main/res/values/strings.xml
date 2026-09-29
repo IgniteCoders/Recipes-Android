@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipes</string>
+
+    <string name="menu_search">Search</string>
+    <string name="empty_list_title">No recipes to show</string>
+    <string name="empty_list_advice">Press the magnifying glass to search for a recipe</string>
+</resources>
